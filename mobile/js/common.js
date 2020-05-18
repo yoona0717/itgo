@@ -1,0 +1,10 @@
+$(function(){
+	m_itgoUI.slider();
+	m_itgoUI.navigation();
+	m_itgoUI.new_class();
+	m_itgoUI.attendance_form();
+	m_itgoUI.notice();
+	m_itgoUI.banner();
+	m_itgoUI.reward();
+	m_itgoUI.familysite();
+});
